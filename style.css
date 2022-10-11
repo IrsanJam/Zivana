@@ -53,9 +53,10 @@ html {
   font-family: "satisfy";
 }
 #home {
-  background-image: url(/assets/zyro-image\(3\).jpeg);
-  background-position: 0px 80px;
+  background-image: url(assets/13.png);
+  background-position: 0px -120px;
   background-size: cover;
+  background-attachment: fixed;
 }
 #judul {
   font-size: 80px;
