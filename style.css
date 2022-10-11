@@ -52,8 +52,16 @@ html {
   color: var(--primary-color);
   font-family: "satisfy";
 }
+#home {
+  background-image: url(/assets/zyro-image\(3\).jpeg);
+  background-position: 0px 80px;
+  background-size: cover;
+}
 #judul {
   font-size: 80px;
+}
+#judket {
+  color: black;
 }
 .menu {
   display: flex;
@@ -132,7 +140,7 @@ section {
 
 .slogan h1 {
   font-size: 7rem;
-  color: var(--primary-color);
+  color: #fabd03;
 }
 
 .slogan button {
