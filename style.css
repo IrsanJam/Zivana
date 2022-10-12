@@ -58,11 +58,7 @@ html {
   background-size: cover;
   background-attachment: fixed;
 }
-#judul {
-  font-size: 80px;
-}
-#judket {
-  color: black;
+
 }
 .menu {
   display: flex;
