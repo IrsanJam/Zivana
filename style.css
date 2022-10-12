@@ -59,7 +59,6 @@ html {
   background-attachment: fixed;
 }
 
-}
 .menu {
   display: flex;
   align-items: center;
@@ -391,7 +390,7 @@ section {
   display: block;
 }
 
-.food-item-wrap.salad > div.salad-type {
+.food-item-wrap.pedas > div.pedas-type {
   display: block;
 }
 
